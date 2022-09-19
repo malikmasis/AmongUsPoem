@@ -1,5 +1,6 @@
-# Garip crewmate
+## Garip crewmate
 
+````
 Ben bir garip crewmate'im,
 Tek bildiğim görevlerim.
 Hep ilk beni kestiniz,
@@ -9,3 +10,6 @@ Görmedim diye suçladınız,
 Masumum dedim inanmadınız.
 Bir de benim kılığıma girip,
 Arkamdan bıçakladınız.
+````
+
+-- By **Murat Erdem**
