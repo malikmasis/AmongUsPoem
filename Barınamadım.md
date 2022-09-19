@@ -12,4 +12,4 @@ Dilara'ya dönüştüm yaranamadım
 Ben bu oyunda yine barınamadım
 ````
 
-Halil İbrahim Kalkan
+-- [Halil İbrahim Kalkan](https://github.com/hikalkan)
