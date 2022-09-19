@@ -1,3 +1,5 @@
+# Garip crewmate
+
 Ben bir garip crewmate'im,
 Tek bildiğim görevlerim.
 Hep ilk beni kestiniz,
