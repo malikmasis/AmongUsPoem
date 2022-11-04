@@ -6,3 +6,5 @@ Bir gariban ise usanmadan bekler fikir
 İş başa düşünce yazar çakma şair
 Bırak lafı da oyuna bekliyoruz ENIS
 ````
+
+**Malik Masis**

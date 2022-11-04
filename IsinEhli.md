@@ -6,3 +6,4 @@ Ortalığı sessizlik bürümüş, iş başa düştü
 İş, ehline kalmayınca kalite ayağa düştü
 Ahali şiir yazmaz mı oldu?
 ````
+**Malik Masis**
