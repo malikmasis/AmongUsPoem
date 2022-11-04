@@ -1,4 +1,4 @@
-## Zalim
+## Ahımı Aldın
 
 ````
 Sen de mi admine daldın

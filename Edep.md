@@ -1,6 +1,7 @@
 # Edep
-
-Yazana saygı bizde edepten <br>
-Bir dörtlük yazdım teyyareden<br>
-Biraz çekidüzen verdim kendime<br>
-Bu işi yaptım istek üzerine<br>
+```
+Yazana saygı bizde edepten
+Bir dörtlük yazdım teyyareden
+Biraz çekidüzen verdim kendime
+Bu işi yaptım istek üzerine
+```
