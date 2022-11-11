@@ -14,6 +14,7 @@ Among us şiirleri topladığımız repo'muz. Her türlü katkıya açığız. P
 * [İşin Ehli](./IsinEhli.md)
 * [Nicesine Sarıldım](./NicesineSarildim.md)
 * [Öldük mü Sandınız](./OldukMuSandiniz.md)
+* [Self-Reportcu](./Self-Reportcu.md)
 * [Sessiz Çığlığım](./SessizCigliğim.md)
 * [Sır](./Sir.md)
 * [Zalim](./Zalim.md)
