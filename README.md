@@ -12,6 +12,8 @@ Among us şiirleri topladığımız repo'muz. Her türlü katkıya açığız. P
 * [Garip Crewmate](./Garipcrewmate.md)
 * [Imposter Tunga](./ImposterTunga.md)
 * [İşin Ehli](./IsinEhli.md)
+* [Kasvetli](./Kasvetli.md)
+* [Kaçarım](./Kacarim.md)
 * [Nicesine Sarıldım](./NicesineSarildim.md)
 * [Öldük mü Sandınız](./OldukMuSandiniz.md)
 * [Self-Reportcu](./Self-Reportcu.md)
